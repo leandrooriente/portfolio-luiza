@@ -28,3 +28,8 @@
   photosDirectory: vtex 
   photos:
     - vtex01.jpg
+- name: Pets
+  description: Here we go
+  photosDirectory: pets
+  photos:
+    - spot.jpg

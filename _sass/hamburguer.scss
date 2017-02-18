@@ -83,6 +83,11 @@ $hamburger-hover-filter    : opacity(50%) !default;
   margin: 0;
   overflow: visible;
 
+  &:focus {
+    box-shadow: none;
+    outline: 0;
+  }
+
   &:hover {
     @if $hamburger-hover-use-filter == true {
       filter: $hamburger-hover-filter;
