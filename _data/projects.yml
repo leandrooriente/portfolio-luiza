@@ -1,0 +1,30 @@
+- name: Finland
+  description: Here we go
+  photosDirectory: finland 
+  photos:
+    - finlandia01.jpg
+- name: New York
+  description: Here we go
+  photosDirectory: nyc 
+  photos:
+    - nyc01.jpg
+- name: Italy
+  description: Here we go
+  photosDirectory: italy 
+  photos:
+    - italia01.jpg
+- name: Estonia
+  description: Here we go
+  photosDirectory: estonia 
+  photos:
+    - estonia01.jpg
+- name: Airbnb
+  description: Here we go
+  photosDirectory: airbnb 
+  photos:
+    - airbnb01.jpg
+- name: Vtex
+  description: Here we go
+  photosDirectory: vtex 
+  photos:
+    - vtex01.jpg
