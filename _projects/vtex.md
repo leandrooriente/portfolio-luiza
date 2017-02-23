@@ -5,24 +5,44 @@ order: "1"
 description: "Here we go"
 photosDirectory: "vtex"
 photos:
-  - vtex01.jpg
-  - vtex02.jpg
-  - vtex03.jpg
-  - vtex04.jpg
-  - vtex05.jpg
-  - vtex06.jpg
-  - vtex07.jpg
-  - vtex08.jpg
-  - vtex09.jpg
-  - vtex10.jpg
-  - vtex11.jpg
-  - vtex12.jpg
-  - vtex13.jpg
-  - vtex14.jpg
-  - vtex15.jpg
-  - vtex16.jpg
-  - vtex17.jpg
-  - vtex18.jpg
-  - vtex19.jpg
-  - vtex20.jpg
+  - url: vtex01.jpg
+    description: ""
+  - url: vtex02.jpg
+    description: ""
+  - url: vtex03.jpg
+    description: ""
+  - url: vtex04.jpg
+    description: ""
+  - url: vtex05.jpg
+    description: ""
+  - url: vtex06.jpg
+    description: ""
+  - url: vtex07.jpg
+    description: ""
+  - url: vtex08.jpg
+    description: ""
+  - url: vtex09.jpg
+    description: ""
+  - url: vtex10.jpg
+    description: ""
+  - url: vtex11.jpg
+    description: ""
+  - url: vtex12.jpg
+    description: ""
+  - url: vtex13.jpg
+    description: ""
+  - url: vtex14.jpg
+    description: ""
+  - url: vtex15.jpg
+    description: ""
+  - url: vtex16.jpg
+    description: ""
+  - url: vtex17.jpg
+    description: ""
+  - url: vtex18.jpg
+    description: ""
+  - url: vtex19.jpg
+    description: ""
+  - url: vtex20.jpg
+    description: ""
 ---

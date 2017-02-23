@@ -12,7 +12,7 @@ layout: default
           <p>{{ project.description }}</p>
         </div>
 
-        <img src="images/{{ project.photosDirectory }}/{{ project.photos[0] }}" />
+        <img src="images/{{ project.photosDirectory }}/{{ project.photos[0].url }}" alt="{{ project.photos[0].description }}" />
       </a>
     </div>
   {% endfor %}

@@ -5,23 +5,42 @@ order: "0"
 description: "A gray cat slinks past a wooden house. There’s something a little intimidating attempting to describe"
 photosDirectory: "airbnb"
 photos:
-  - airbnb01.jpg
-  - airbnb02.jpg
-  - airbnb03.jpg
-  - airbnb04.jpg
-  - airbnb05.jpg
-  - airbnb06.jpg
-  - airbnb07.jpg
-  - airbnb08.jpg
-  - airbnb09.jpg
-  - airbnb10.jpg
-  - airbnb11.jpg
-  - airbnb12.jpg
-  - airbnb13.jpg
-  - airbnb14.jpg
-  - airbnb15.jpg
-  - airbnb16.jpg
-  - airbnb17.jpg
-  - airbnb18.jpg
-  - airbnb19.jpg
+  - url: airbnb01.jpg
+    description: ""
+  - url: airbnb02.jpg
+    description: ""
+  - url: airbnb03.jpg
+    description: ""
+  - url: airbnb04.jpg
+    description: ""
+  - url: airbnb05.jpg
+    description: ""
+  - url: airbnb06.jpg
+    description: ""
+  - url: airbnb07.jpg
+    description: ""
+  - url: airbnb08.jpg
+    description: ""
+  - url: airbnb09.jpg
+    description: ""
+  - url: airbnb10.jpg
+    description: ""
+  - url: airbnb11.jpg
+    description: ""
+  - url: airbnb12.jpg
+    description: ""
+  - url: airbnb13.jpg
+    description: ""
+  - url: airbnb14.jpg
+    description: ""
+  - url: airbnb15.jpg
+    description: ""
+  - url: airbnb16.jpg
+    description: ""
+  - url: airbnb17.jpg
+    description: ""
+  - url: airbnb18.jpg
+    description: ""
+  - url: airbnb19.jpg
+    description: ""
 ---

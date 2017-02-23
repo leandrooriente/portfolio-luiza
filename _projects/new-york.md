@@ -5,9 +5,14 @@ order: "4"
 description: "Here we go"
 photosDirectory: "nyc"
 photos:
-  - nyc01.jpg
-  - nyc02.jpg
-  - nyc03.jpg
-  - nyc04.jpg
-  - nyc05.jpg
+  - url: nyc01.jpg
+    description: "Example"
+  - url: nyc02.jpg
+    description: "Example 2"
+  - url: nyc03.jpg
+    description: ""
+  - url: nyc04.jpg
+    description: ""
+  - url: nyc05.jpg
+    description: ""
 ---

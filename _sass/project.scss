@@ -47,6 +47,12 @@
   margin-bottom: 60px;
   display: block;
 
+  & p {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+  }
+
   & img {
     width: 100%;
     max-width: 100%;
@@ -83,7 +89,7 @@
 
   & li {
     list-style: none;
-    width: 25%;
+    width: 33%;
     float: left;
     margin: 0 0 30px;
     padding: 0;
