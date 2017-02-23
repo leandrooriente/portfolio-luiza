@@ -2,7 +2,7 @@
 title: "Italy"
 layout: "project"
 order: "3"
-description: "Here we go"
+description: "Acervo pessoal de fotos de viagem em diferentes cidades na Itália. A ideia era explorar a arquitetura milenar que existe na Itália vista de novos pontos de vistas."
 photosDirectory: "italy"
 photos:
   - url: italia01.jpg

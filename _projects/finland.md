@@ -2,7 +2,7 @@
 title: "Finland"
 layout: "project"
 order: "5"
-description: "Here we go"
+description: "Acervo pessoal de fotos durante o intercâmbio em Rovaniemi, Finlândia. Nessas fotos o foco era explorar as diferenças geográficas de um país escandinavo e aproveitar os diferentes momentos de luzes. O curto período de tempo de luz solar no inverno, o pôr do sol da meia noite e o fenômeno da Aurora Boreal. "
 photosDirectory: "finland"
 photos:
   - url: finlandia01.jpg

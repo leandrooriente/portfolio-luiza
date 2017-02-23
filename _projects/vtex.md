@@ -2,7 +2,7 @@
 title: "VTEX"
 layout: "project"
 order: "1"
-description: "Here we go"
+description: "O trabalho consistia em fotografar o novo escritório da VTEX no Rio de Janeiro. O objetivo da sessão de fotos era ter uma boa base de conteúdo visual para atrair novos candidatos, sendo utilizadas nas redes sociais e site de hiring. Através das fotografias era necessário não só mostrar o espaço e a arquitetura, como também a cultura da empresa e os diferentes momentos em que as áreas do escritório são utilizadas."
 photosDirectory: "vtex"
 photos:
   - url: vtex01.jpg

@@ -2,7 +2,7 @@
 title: "Museu do Amanhã"
 layout: "project"
 order: "2"
-description: "Here we go"
+description: " Fotos do Museu do Amanhã e das principais atrações para serem usadas pelo café do museu, Fazenda Culinária."
 photosDirectory: "museu"
 photos:
   - url: museu01.jpg

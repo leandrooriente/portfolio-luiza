@@ -2,7 +2,8 @@
 title: "Airbnb"
 layout: "project"
 order: "0"
-description: "A gray cat slinks past a wooden house. There’s something a little intimidating attempting to describe"
+description: "O trabalho consistia em fotografar 19 bairros do Rio de Janeiro para mostrar um pouco dos nossos cenários cariocas, diferenças de um bairro para o outro, as pessoas que frequentam cada local e paisagem. Quis mostrar através do meu olhar um pouco desses nossos diferentes contextos carioca.
+"
 photosDirectory: "airbnb"
 photos:
   - url: airbnb01.jpg
