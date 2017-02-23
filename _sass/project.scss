@@ -34,6 +34,7 @@
   & p {
     font-style: italic;
     font-size: 14px;
+    line-height: 1.5;
   }
 }
 
@@ -96,7 +97,7 @@
     border: 0;
     outline: 0;
     text-align: center;
-    
+
     &:hover {
       img {
         transform: scale(1.05);
@@ -108,7 +109,7 @@
 
   & img {
     width: 100%;
-    max-width: 100%;   
+    max-width: 100%;
     height: auto;
     vertical-align: middle;
     transition: transform 0.2s ease-in;
