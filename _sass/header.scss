@@ -1,3 +1,7 @@
+body {
+  padding-top: 57px;
+}
+
 .header {
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.07);
   padding: 10px;
@@ -5,6 +9,11 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  position: fixed;
+  background: #fff;
+  width: 100%;
+  z-index: 9;
+  top: 0;
 }
 
 .navigation {
