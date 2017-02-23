@@ -42,6 +42,4 @@ photos:
     description: "Rua no centro da cidade"
   - url: airbnb18.jpg
     description: "Arpoador"
-  - url: airbnb19.jpg
-    description: "Vidigal"
 ---
