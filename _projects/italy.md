@@ -6,21 +6,21 @@ description: "Acervo pessoal de fotos de viagem em diferentes cidades na Itália
 photosDirectory: "italy"
 photos:
   - url: italia01.jpg
-    description: ""
+    description: "Escadaria do Vaticano"
   - url: italia02.jpg
-    description: ""
+    description: "Canal em Veneza"
   - url: italia03.jpg
-    description: ""
+    description: "Vista da ponte principal de Bassano del grappa"
   - url: italia04.jpg
-    description: ""
+    description: "Vista da ponte principal de Bassano del grappa"
   - url: italia05.jpg
-    description: ""
+    description: "Vista superior de Florença"
   - url: italia06.jpg
-    description: ""
+    description: "Florença"
   - url: italia07.jpg
-    description: ""
+    description: "Basílica de São Pedro"
   - url: italia08.jpg
-    description: ""
+    description: "Fórum romano visto de cima"
   - url: italia09.jpg
-    description: ""
+    description: "Interior do museu do Vaticano"
 ---
