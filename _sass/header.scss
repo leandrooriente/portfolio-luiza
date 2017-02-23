@@ -2,6 +2,10 @@ body {
   padding-top: 57px;
 }
 
+.header-spacer {
+  width: 33%;
+}
+
 .header {
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.07);
   padding: 10px;
@@ -16,11 +20,8 @@ body {
   top: 0;
 }
 
-.navigation {
-  width: 33%;
-}
-
 .logo {
+  width: 33%;
   font-size: 18px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -44,6 +45,12 @@ body {
 .contact {
   width: 33%;
   text-align: right;
+
+  a {
+    color: #222;
+    text-decoration: none;
+  }
+
   p {
     font-size: 12px;
     display: inline-block;
@@ -52,5 +59,17 @@ body {
 
   span {
     color: $light-color;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .logo {
+    width: 100%;
+  }
+  .contact {
+    display: none;
+  }
+  .header-spacer {
+    display: none;
   }
 }

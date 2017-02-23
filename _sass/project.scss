@@ -114,3 +114,19 @@
     transition: transform 0.2s ease-in;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .full-banner {
+    min-height: 300px;
+  }
+
+  .details {
+    padding: 0 10px;
+  }
+
+  .other-projects-list {
+    & li {
+      width: 100%;
+    }
+  }
+}
