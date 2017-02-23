@@ -10,4 +10,8 @@ photos:
   - italia03.jpg
   - italia04.jpg
   - italia05.jpg
+  - italia06.jpg
+  - italia07.jpg
+  - italia08.jpg
+  - italia09.jpg
 ---
