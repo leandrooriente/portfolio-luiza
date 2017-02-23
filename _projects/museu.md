@@ -6,15 +6,15 @@ description: " Fotos do Museu do Amanhã e das principais atrações para serem 
 photosDirectory: "museu"
 photos:
   - url: museu01.jpg
-    description: ""
+    description: "Instalação"
   - url: museu02.jpg
-    description: ""
+    description: "Paisagem de fundo do Museu"
   - url: museu03.jpg
-    description: ""
+    description: "Vista superior da entrada principal"
   - url: museu04.jpg
-    description: ""
+    description: "Instalação Antropoceno"
   - url: museu05.jpg
-    description: ""
+    description: "Corredor do museu"
   - url: museu06.jpg
-    description: ""
+    description: "Museu visto da praça Mauá"
 ---
