@@ -6,13 +6,13 @@ description: "Acervo pessoal de fotos de viagem a Nova York. A ideia era aprovei
 photosDirectory: "nyc"
 photos:
   - url: nyc01.jpg
-    description: "Example"
+    description: "Central Park"
   - url: nyc02.jpg
-    description: "Example 2"
+    description: "Samsung experience"
   - url: nyc03.jpg
-    description: ""
+    description: "Café da manhã no jack's wife freda"
   - url: nyc04.jpg
-    description: ""
+    description: "Café da manhã no jack's wife freda"
   - url: nyc05.jpg
-    description: ""
+    description: "Central Park"
 ---
