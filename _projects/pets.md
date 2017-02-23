@@ -1,9 +1,9 @@
 ---
 title: "Pets"
 layout: "project"
-order: "5"
+order: "7"
 description: "Here we go"
-photosDirectory: "pets" 
+photosDirectory: "pets"
 photos:
   - spot.jpg
 ---
