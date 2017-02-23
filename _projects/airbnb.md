@@ -7,41 +7,41 @@ description: "O trabalho consistia em fotografar 19 bairros do Rio de Janeiro pa
 photosDirectory: "airbnb"
 photos:
   - url: airbnb01.jpg
-    description: ""
+    description: "Ciclistas na Barra"
   - url: airbnb02.jpg
-    description: ""
+    description: "Bonde que leva ao Cristo Redentor no Cosme Velho"
   - url: airbnb03.jpg
-    description: ""
+    description: "Urca"
   - url: airbnb04.jpg
-    description: ""
+    description: "Urca"
   - url: airbnb05.jpg
-    description: ""
+    description: "Feira no Largo do Machado"
   - url: airbnb06.jpg
-    description: ""
+    description: "Vista superior do Vidigal"
   - url: airbnb07.jpg
-    description: ""
+    description: "Santa Tereza"
   - url: airbnb08.jpg
-    description: ""
+    description: "Lagoa"
   - url: airbnb09.jpg
-    description: ""
+    description: "Urca"
   - url: airbnb10.jpg
-    description: ""
+    description: "Urca"
   - url: airbnb11.jpg
-    description: ""
+    description: "Copacabana"
   - url: airbnb12.jpg
-    description: ""
+    description: "Barra"
   - url: airbnb13.jpg
-    description: ""
+    description: "Lapa"
   - url: airbnb14.jpg
-    description: ""
+    description: "Lapa"
   - url: airbnb15.jpg
-    description: ""
+    description: "Lapa"
   - url: airbnb16.jpg
-    description: ""
+    description: "Parque Lage"
   - url: airbnb17.jpg
-    description: ""
+    description: "Rua no centro da cidade"
   - url: airbnb18.jpg
-    description: ""
+    description: "Arpoador"
   - url: airbnb19.jpg
-    description: ""
+    description: "Vidigal"
 ---
