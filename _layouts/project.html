@@ -22,7 +22,12 @@ layout: "default"
   {% for photo in page.photos %}
     {% if forloop.index != 1 %}
     <div class="photo">
-      <img alt="{{ photo.description }}" src="/images/{{ page.photosDirectory }}/{{ photo.url }}" />
+      <picture>
+        <source srcset="/images/{{ page.photosDirectory }}/mobile/{{ photo.url }}" media="(max-width: 420px)">
+        <source srcset="/images/{{ page.photosDirectory }}/tablet/{{ photo.url }}" media="(max-width: 800px)">
+
+        <img alt="{{ photo.description }}" src="/images/{{ page.photosDirectory }}/{{ photo.url }}" />
+      </picture>
       <p>{{ photo.description }}</p>
     </div>
     {% endif %}
@@ -38,7 +43,7 @@ layout: "default"
     {% for project in sorted_projects %}
       <li>
         <a href="{{ project.url }}">
-          <img src="/images/{{ project.photosDirectory }}/{{ project.photos[0].url }}" alt="{{ project.photos[0].description }}" />
+          <img src="/images/{{ project.photosDirectory }}/mobile/{{ project.photos[0].url }}" />
           <h4>{{ project.title }}</h4>
         </a>
       </li>

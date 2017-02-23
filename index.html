@@ -11,7 +11,12 @@ layout: default
           <h3 class="project-title">{{ project.title }}</h3>
         </div>
 
-        <img src="images/{{ project.photosDirectory }}/{{ project.photos[0].url }}" alt="{{ project.photos[0].description }}" />
+        <picture>
+          <source srcset="/images/{{ project.photosDirectory }}/mobile/{{ project.photos[0].url }}" media="(max-width: 420px)">
+          <source srcset="/images/{{ project.photosDirectory }}/tablet/{{ project.photos[0].url }}" media="(max-width: 800px)">
+
+          <img src="/images/{{ project.photosDirectory }}/{{ project.photos[0].url }}" alt="{{ project.photos[0].description }}" />
+        </picture>
       </a>
     </div>
   {% endfor %}
