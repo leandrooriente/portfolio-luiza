@@ -6,43 +6,43 @@ description: "O trabalho consistia em fotografar o novo escritório da VTEX no R
 photosDirectory: "vtex"
 photos:
   - url: vtex01.jpg
-    description: ""
+    description: "Escritório"
   - url: vtex02.jpg
-    description: ""
+    description: "Copa"
   - url: vtex03.jpg
-    description: ""
+    description: "Copa"
   - url: vtex04.jpg
-    description: ""
+    description: "Arquibancada para eventos"
   - url: vtex05.jpg
-    description: ""
+    description: "Arquibancada para eventos"
   - url: vtex06.jpg
-    description: ""
+    description: "Arquibancada para eventos vista de cima"
   - url: vtex07.jpg
-    description: ""
+    description: "Sala de reunião"
   - url: vtex08.jpg
-    description: ""
+    description: "Hall de entrada"
   - url: vtex09.jpg
-    description: ""
+    description: "Mesas de trabalho"
   - url: vtex10.jpg
-    description: ""
+    description: "Área de trabalho"
   - url: vtex11.jpg
-    description: ""
+    description: "Área de trabalho"
   - url: vtex12.jpg
-    description: ""
+    description: "Área de trabalho"
   - url: vtex13.jpg
-    description: ""
+    description: "Área para concentração"
   - url: vtex14.jpg
-    description: ""
+    description: "Área para concentração"
   - url: vtex15.jpg
-    description: ""
+    description: "Café da manhã na empresa"
   - url: vtex16.jpg
-    description: ""
+    description: "Funcionários"
   - url: vtex17.jpg
-    description: ""
+    description: "Funcionários"
   - url: vtex18.jpg
-    description: ""
+    description: "Evento de demonstração de produto"
   - url: vtex19.jpg
-    description: ""
+    description: "Funcionários"
   - url: vtex20.jpg
-    description: ""
+    description: "Funcionários"
 ---
